@@ -1,0 +1,29 @@
+.component {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 800px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h3 {
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px;
+  }
+  
+  pre {
+    color: #333;
+    font-size: 1.6em;
+  }
+
+  p {
+    color: #007bff;
+    font-size: 2em;
+    text-align: center;
+  }
